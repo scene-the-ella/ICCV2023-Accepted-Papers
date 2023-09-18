@@ -1,4 +1,4 @@
-![image](https://github.com/scene-the-ella/ICCV2023-Accepted-Papers/assets/16212874/feabda79-b092-452f-a688-8a7b2636a565)![image](https://github.com/scene-the-ella/ICCV2023-Accepted-Papers/assets/16212874/884a6b4a-a964-45c7-b612-1273e6afc6ed)# ICCV2023-Accepted-Papers
+# ICCV2023-Accepted-Papers
 
 # Day 3: Wednesday 4th 09:30-10:30 - Orals
 ## Session: 3D from multi-view and sensors 
