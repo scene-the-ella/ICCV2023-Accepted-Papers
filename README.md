@@ -20,7 +20,10 @@
 |-----------|:--------:|:---------:|:---------:|:---------:|
  | Simoun: Synergizing Interactive Motion-appearance Understanding for Vision-based Reinforcement Learning | (Comming) | (Comming) | (Comming) | Team: Multimedia Learning Group, Peking University ([link](https://www.pkuml.org/staff/all-staff.html)) | 
  | Among Us: Adversarially Robust Collaborative Perception by Consensus | [Arxiv](https://arxiv.org/abs/2303.09495) | [Code](https://github.com/coperception/ROBOSAC) | N/A | Team:  ([link]()) |
-| Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation | [Arxiv](https://arxiv.org/abs/2304.11705) | [Code](https://github.com/saltoricristiano/LiDOG) | N/A | Team: University of Trento ([link]()) |
+| Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation | [Arxiv](https://arxiv.org/abs/2304.11705) | [Code](https://github.com/saltoricristiano/LiDOG) | N/A | Team: MHUG, University of Trento ([link](http://mhug.disi.unitn.it/#/)) |
+| MAAL: Multimodality-Aware Autoencoder-Based Affordance Learning for 3D Articulated Objects | (Comming) | (Comming) | (Comming) | Team: ReLER Lab, University of Technology Sydney ([link](http://reler.net)) | 
+| Rethinking Range View Representation for LiDAR Segmentation | [Arxiv](https://arxiv.org/abs/2303.05367) | [Code]() | [Project page]() | Team:  ([link]()) | 
+
 
 
 
